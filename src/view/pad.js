@@ -5,8 +5,8 @@ import {
   StyleSheet,
   InteractionManager
 } from 'react-native'
-// import {Svg} from '../config'
-import * as Svg from 'react-native-svg'
+import {Svg} from '../config'
+// import * as Svg from 'react-native-svg'
 import Pen from '../tools/pen'
 import Point from '../tools/point'
 
